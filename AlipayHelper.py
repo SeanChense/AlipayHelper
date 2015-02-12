@@ -11,7 +11,7 @@ device = MonkeyRunner.waitForConnection()
 w = 1080
 h = 1780
 
-print('go')
+print('go ')
 while True:
     time.sleep(0.4)
     wi = random.randint(0, w)
